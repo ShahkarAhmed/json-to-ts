@@ -1,3 +1,4 @@
+# Json to Typescript Interface converter
 ###### Json to typescript interface converter app based on Angular 7 and Bootstrap.
 #### Input Json
 ![Alt text](/src/assets/screen-2.PNG?raw=true "Json to typescript converter")
